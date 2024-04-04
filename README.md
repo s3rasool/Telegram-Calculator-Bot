@@ -1,4 +1,16 @@
 # Telegram Calculator Bot
+## Before Running the Bot
+Before running the bot, make sure to replace the placeholder value in the `BOT_TOKEN` variable with your own bot token obtained from Telegram BotFather. This token should be placed in the `bot.py` file.
+
+To obtain a bot token from Telegram BotFather:
+1. Start a conversation with [BotFather](https://telegram.me/BotFather) on Telegram.
+2. Follow the instructions to create a new bot and obtain its token.
+3. Copy the token provided by BotFather.
+4. Open the `bot.py` file in your project directory.
+5. Locate the `BOT_TOKEN` variable and replace the placeholder value with your bot token.
+6. Save the changes to the `bot.py` file.
+
+Now you can run the bot with your own bot token.
 
 ## Project Title
 Telegram Calculator Bot
